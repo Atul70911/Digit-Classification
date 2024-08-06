@@ -27,6 +27,8 @@ You can install these dependencies using pip:
 
 ```bash
 pip install numpy pandas tensorflow keras matplotlib seaborn scikit-learn
+```
+
 # Usage and Results
 
 ## Usage
