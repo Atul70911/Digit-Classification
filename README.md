@@ -8,7 +8,8 @@ The goal of this project is to create and train a CNN to classify handwritten di
 
 ## Files
 
-- `mnist_cnn.py`: Python script containing the CNN model implementation, training, and evaluation.
+- `digit_classification.py`: Python script containing the CNN model implementation, training, and evaluation.
+- `digit_classification.ipynb`: Python notebook with all the outputs
 - `README.md`: This file.
 
 ## Dependencies
